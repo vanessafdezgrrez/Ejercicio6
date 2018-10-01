@@ -1,5 +1,3 @@
-//Comentario
-
 package ejercicio;
 
 public class BoardGame extends Game {
